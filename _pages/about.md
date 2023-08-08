@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linking multi­trophic interactions in the plant­-soil interface"
+title: "Linking ­trophic interactions in the plant­-soil interface"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
