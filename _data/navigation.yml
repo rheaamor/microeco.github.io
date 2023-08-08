@@ -3,12 +3,11 @@ main:
 
 
   - title: "Research Team"
-    url: /researchteam/
+    url: /portfolio/
 
   - title: "Teaching"
     
     
   - title: "Resources"
-    
-        
+    url: /markdown/        
 
