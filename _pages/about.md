@@ -20,6 +20,7 @@ We look at the microbiota (bacteria, archaea, fungi, and nematodes) and their in
 Graduate and undergraduate students
 ======
 I welcome bright, motivated, and enthusiastic researchers to join the lab as undergraduate and graduate students. Interested **graduate students** can check out this [page ](https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries.html)for scholarships and grants. For **undergraduates**, check out this [page](https://www.dal.ca/faculty/agriculture/research/usra2.html). 
+
 I encourage the students to come up with their own research project ideas and we can discuss about it.
 For more info, please send an email to <a href="rheaamor@dal.ca">rheaamor@dal.ca</a>.
 
