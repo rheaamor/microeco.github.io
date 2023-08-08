@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Linking multi­trophic interactions in the plant­-soil interface"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Our research lab aims to study the patterns and processes that control microbiota diversity and their ecosystem functions in various environments under different management practices and stress events. Our short­-term goal is to study these patterns and processes across multiple scales  encompassing diverse ecosystems and spatial scales influenced by climate, soil type, vegetation, and temporal dynamics. By doing so, our long­-term goal is to establish a predictive framework to help us manage our soils into resource ­efficient and stress ­resilient ecosystems.
 
-A data-driven personal website
+We look at the microbiota (bacteria, archaea, fungi, and nematodes) and their interactions in the plant and soil interface in the agricultural and natural systems, employing multidisciplinary approaches linking agronomy, soil physicochemical properties, and C and N cycling. The research will be done using a range of experimental setups (i.e. field, greenhouse, controlled environments, and in vitro). We will use -­omics, isotopic approaches, and also incorporate classical­-based methods, including the cultivation of bacteria and microscopic identification of soil nematodes to answer the following questions:
+1. How do plants and soil microbiota interact under various biotic (e.g. pathogen) and abiotic (e.g. drought, salinity, etc.) conditions, and how do these dynamics affect ecosystem functioning, such as nutrient and carbon cycling?
+2. How do regenerative practices (e.g., soil amendment including biological synthetic communities, cropping system, reduced tillage, etc.) affect the soil microbiota structure and function?
+3. Are there trophic interaction features that are deemed resilient and resource­-efficient?
+4. Are structurally and functionally diverse soils more resistant and resilient to stress events?
+5. How do we sustainably manage the land for ecosystem services?
+
+Graduate and undergraduate students
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -27,7 +34,7 @@ Getting started
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file) for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
