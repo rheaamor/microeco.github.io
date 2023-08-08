@@ -1,6 +1,6 @@
 ---
 title: "Principal Investigator"
-excerpt: "<br/><img src='/images/Rhea Lumactud-4.jpeg'>"
+excerpt: "<br/><img src='/images/mypic.jpeg'>"
 collection: portfolio
 ---
 **Education:**
