@@ -8,7 +8,7 @@ author_profile: true
 **Principal Investigator**
 ![](/images/mypic.jpeg)
 
-Education and training:
+##Education and training:
 Postdoc, University of Alberta
 Postdoc, Pennsylvania State University
 PhD (Microbial Ecology/Environmental Microbiology), University of Toronto 
